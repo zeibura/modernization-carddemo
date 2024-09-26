@@ -4,7 +4,8 @@
 ## Scenario 1: Code Explain 
 
 Pick one of the cobol program's from the Explorer tab. 
-MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here. Reference Screenshot:
+MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here. 
+Reference Screenshot:
 
 <img src='diagrams/genai/image1.png' width='30%'>
 
@@ -35,8 +36,8 @@ Please share feedback notes for Scenario 1:
 
 Pick one of the cobol program's from the Explorer tab. 
 MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here. 
-
 Reference Screenshot: 
+
 <img src='diagrams/genai/image1.png' width='30%'>
 
 Select the complete program or code snippet from the program and select Ctrl + L if you are on windows or Cmd + L if you are on Mac. 
@@ -60,8 +61,8 @@ Please share feedback notes for Scenario 2:
 
 Pick one of the cobol program's from the Explorer tab. 
 MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here. 
-
 Reference Screenshot: 
+
 <img src='diagrams/genai/image1.png' width='30%'>
 
 Select the complete program or code snippet from the program and select Ctrl + L if you are on windows or Cmd + L if you are on Mac.
