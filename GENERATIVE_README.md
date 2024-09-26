@@ -3,22 +3,20 @@
 
 ## Scenario 1: Code Explain 
 
-1. Pick one of the cobol program's from the Explorer tab. 
-MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here. 
+Pick one of the cobol program's from the Explorer tab. 
+MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here. Reference Screenshot:
 
-Reference Screenshot:
- 
 <img src='diagrams/genai/image1.png' width='30%'>
 
-Select the complete program or snippet the program and enter (Ctrl + L if you are on windows. Cmd + L if you are on Mac). 
+Select the complete program or code snippet from the program and select Ctrl + L if you are on windows or Cmd + L if you are on Mac. 
 
 <img src='diagrams/genai/image2.png' width='30%'>
 
-Enter “Explain” and hit enter 
+In the prompt, type "Explain" and hit enter. Reference screenshot:
 
 <img src='diagrams/genai/image3.png' width='30%'>
 
-The out come appears like below: 
+The Generative AI ouput would be something inlines of reference screenshots listed below:  
 
 <img src='diagrams/genai/image4.png' width='30%'>
 
@@ -26,7 +24,7 @@ The out come appears like below:
 
 <img src='diagrams/genai/image6.png' width='30%'>
 
-Please shaere feedback notes on the below for Scenario 1:
+Please share feedback notes for Scenario 1:
 
 1). Validate the accuracy of explanation?
 
@@ -35,15 +33,15 @@ Please shaere feedback notes on the below for Scenario 1:
 
 ## Scenario 2: Test case suggestions
 
-1. Pick one of the cobol program's from the Explorer tab. 
+Pick one of the cobol program's from the Explorer tab. 
 MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here. 
 
 Reference Screenshot: 
 <img src='diagrams/genai/image1.png' width='30%'>
 
-Select the complete program or snippet the program and enter (Ctrl + L if you are on windows. Cmd + L if you are on Mac). 
+Select the complete program or code snippet from the program and select Ctrl + L if you are on windows or Cmd + L if you are on Mac. 
 
-Then in the prompt, type "/test". Reference screenshot: 
+In the prompt, type "/test" and hit enter. Reference screenshot: 
 
 <img src='diagrams/genai/image7.png' width='30%'>
 
@@ -51,7 +49,7 @@ The Generative AI ouput would be something inlines of reference screenshot liste
 
 <img src='diagrams/genai/image8.png' width='30%'>
 
-Please shaere feedback notes on the below for Scenario 2:
+Please share feedback notes for Scenario 2:
 
 1). Is this something useful?
 
@@ -60,15 +58,15 @@ Please shaere feedback notes on the below for Scenario 2:
 
 ## Scenario 3: Git diff
 
-1. Pick one of the cobol program's from the Explorer tab. 
+Pick one of the cobol program's from the Explorer tab. 
 MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here. 
 
 Reference Screenshot: 
 <img src='diagrams/genai/image1.png' width='30%'>
 
-Select the complete program or snippet the program and enter (Ctrl + L if you are on windows. Cmd + L if you are on Mac). 
+Select the complete program or code snippet from the program and select Ctrl + L if you are on windows or Cmd + L if you are on Mac.
 
-Then in the prompt, type "/Git Diff". This will reference the current git diff. In addition to listing if the files being changed, this command output gives the context to the changes made. Reference screenshot: 
+In the prompt, type "/Git Diff" and hit enter. This will reference the current git diff. In addition to listing if the files being changed, this command output gives the context to the changes made. Reference screenshot: 
 
 <img src='diagrams/genai/image9.png' width='30%'>
 
@@ -82,7 +80,7 @@ The Generative AI ouput would be something inlines of reference screenshot liste
 
 <img src='diagrams/genai/image12.png' width='30%'>
 
-Please shaere feedback notes on the below for Scenario 3.
+Please share feedback notes for Scenario 3.
 
 
 
