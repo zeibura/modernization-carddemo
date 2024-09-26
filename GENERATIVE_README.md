@@ -87,6 +87,21 @@ The Generative AI ouput would be something inlines of reference screenshots list
 
 Please share feedback notes for Scenario 3.
 
+## Troubleshooting Tip: 
+
+Please refresh the VS Code window if at any point you see things are not making progress. Listing the detaisl on refreshing the VS Code window:
+
+1). Select the three vertical lines on the top left -> View -> Command Palette
+
+Reference Screenshot: 
+
+<img src='diagrams/genai/image13.png' width='30%'>
+
+2). Once the Command Palette is open, Type in "Reload Window" and hit enter, this will reload the VS Code window. 
+
+Reference Screenshot: 
+
+<img src='diagrams/genai/image14.png' width='30%'>
 
 
 
