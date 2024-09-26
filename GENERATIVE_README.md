@@ -90,6 +90,7 @@ Please share feedback notes for Scenario 3.
 ## Troubleshooting Tip: 
 
 Please refresh the VS Code window if at any point you see things are not making progress. 
+
 Listing the details on refreshing the VS Code window:
 
 1). Select the three vertical lines on the top left -> View -> Command Palette
