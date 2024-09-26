@@ -6,7 +6,8 @@
 1. Pick one of the cobol program's from the Explorer tab. 
 MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here. 
 
-Reference Screenshot: 
+Reference Screenshot:
+ 
 <img src='diagrams/genai/image1.png' width='30%'>
 
 Select the complete program or snippet the program and enter (Ctrl + L if you are on windows. Cmd + L if you are on Mac). 
