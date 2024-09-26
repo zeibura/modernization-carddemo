@@ -11,7 +11,7 @@ Reference Screenshot:
 
 <img src='diagrams/genai/image1.png' width='30%'>
 
-Select the complete program or code snippet from the program and select Ctrl + L if you are on windows or Cmd + L if you are on Mac. 
+Select the complete program or code snippet from the program. Select Ctrl + L if you are on windows or Cmd + L if you are on Mac - This will copy the code contents into the Generative AI extension. 
 
 <img src='diagrams/genai/image2.png' width='30%'>
 
@@ -20,8 +20,6 @@ In the prompt, type "Explain" and hit enter. Reference screenshot:
 <img src='diagrams/genai/image3.png' width='30%'>
 
 The Generative AI ouput would be something inlines of reference screenshots listed below:  
-
-<img src='diagrams/genai/image4.png' width='30%'>
 
 <img src='diagrams/genai/image5.png' width='30%'>
 
@@ -44,7 +42,7 @@ Reference Screenshot:
 
 <img src='diagrams/genai/image1.png' width='30%'>
 
-Select the complete program or code snippet from the program and select Ctrl + L if you are on windows or Cmd + L if you are on Mac. 
+Select the complete program or code snippet from the program. Select Ctrl + L if you are on windows or Cmd + L if you are on Mac - This will copy the code contents into the Generative AI extension. 
 
 In the prompt, type "/test" and hit enter. Reference screenshot: 
 
@@ -71,7 +69,7 @@ Reference Screenshot:
 
 <img src='diagrams/genai/image1.png' width='30%'>
 
-Select the complete program or code snippet from the program and select Ctrl + L if you are on windows or Cmd + L if you are on Mac.
+Select the complete program or code snippet from the program. Select Ctrl + L if you are on windows or Cmd + L if you are on Mac - This will copy the code contents into the Generative AI extension. 
 
 In the prompt, type "/Git Diff" and hit enter. This will reference the current git diff. In addition to listing if the files being changed, this command output gives the context to the changes made. Reference screenshot: 
 
