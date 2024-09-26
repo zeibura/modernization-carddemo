@@ -25,7 +25,7 @@ The out come appears like below:
 
 <img src='diagrams/genai/image6.png' width='30%'>
 
-What we ask from you is to:
+What we ask:
 
 1). Validate the accuracy of explanation
 
@@ -33,4 +33,38 @@ What we ask from you is to:
 
 
 ## Scenario 2: Test case suggestions
+
+<img src='diagrams/genai/image7.png' width='30%'>
+
+Outcome: 
+
+<img src='diagrams/genai/image8.png' width='30%'>
+
+What we ask: 
+
+1). Is this something useful
+
+2). Are these something that you would look for while testing a cobol program?
+
+
+## Scenario 3: Git diff
+
+Reference the current git diff. 
+
+In addition to listing if the files being changed, this command output gives the context to the changes made.
+
+<img src='diagrams/genai/image9.png' width='30%'>
+
+Command Run:
+
+<img src='diagrams/genai/image10.png' width='30%'>
+
+Output:
+
+<img src='diagrams/genai/image11.png' width='30%'>
+
+<img src='diagrams/genai/image12.png' width='30%'>
+
+
+
 
