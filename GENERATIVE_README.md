@@ -79,7 +79,7 @@ Command Run:
 
 <img src='diagrams/genai/image10.png' width='30%'>
 
-The Generative AI ouput would be something inlines of reference screenshot listed below:  
+The Generative AI ouput would be something inlines of reference screenshots listed below:  
 
 <img src='diagrams/genai/image11.png' width='30%'>
 
