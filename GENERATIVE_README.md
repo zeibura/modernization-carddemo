@@ -3,8 +3,10 @@
 
 ## Scenario 1: Code Explain 
 
-Pick one of the cobol program's from the Explorer tab. 
-MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here. 
+Pick one of the cobol program's from the Explorer tab.
+
+MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here.
+
 Reference Screenshot:
 
 <img src='diagrams/genai/image1.png' width='30%'>
