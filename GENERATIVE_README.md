@@ -36,8 +36,10 @@ Please share feedback notes for Scenario 1:
 
 ## Scenario 2: Test case suggestions
 
-Pick one of the cobol program's from the Explorer tab. 
-MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here. 
+Pick one of the cobol program's from the Explorer tab.
+
+MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here.
+
 Reference Screenshot: 
 
 <img src='diagrams/genai/image1.png' width='30%'>
@@ -61,8 +63,10 @@ Please share feedback notes for Scenario 2:
 
 ## Scenario 3: Git diff
 
-Pick one of the cobol program's from the Explorer tab. 
-MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here. 
+Pick one of the cobol program's from the Explorer tab.
+
+MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here.
+
 Reference Screenshot: 
 
 <img src='diagrams/genai/image1.png' width='30%'>
