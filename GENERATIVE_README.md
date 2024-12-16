@@ -1,109 +1,60 @@
-# Generative AI - Workshop Scenarios
+# Code4z Assistant - Workshop Scenarios
 
+## Initial Setup
 
-## Scenario 1: Code Explain 
+The Code4z Assistant VS Extension is used for this workshop. It is already installed and configured in your Code4z Assistant VS Extension.
 
-Pick one of the cobol program's from the Explorer tab.
+To open the Code4z Assistant view, use its icon in the activity bar:<br/>
+<img src='diagrams/code4z_assistant/activity_bar_assistant_icon.png' width='36pt'/>
 
-MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here.
+This will open the following view:
 
-Reference Screenshot:
+<img src='diagrams/code4z_assistant/initial_assistant_view.png' style='min-width: 200pt; max-width: 300pt;'/>
 
-<img src='diagrams/genai/image1.png' width='30%'>
+The workshop environment is already configured to connect with the Code4z Assistant service. You can close the configuration by clicking the **X** button.
 
-Select the complete program or code snippet from the program. Select Ctrl + L if you are on windows or Cmd + L if you are on Mac - This will copy the code contents into the Generative AI extension. 
+## Scenario 1: Code Explanation
 
-<img src='diagrams/genai/image2.png' width='30%'>
+The Code4z Assistant VS Extension provides a feature to explain COBOL code in a human-readable way. It uses natural language processing and machine learning techniques to generate explanations for the code.
 
-In the prompt, type "Explain" and hit enter. Reference screenshot:
+You can explain sections of a program or entire programs.
 
-<img src='diagrams/genai/image3.png' width='30%'>
+Follow these steps:
 
-The Generative AI ouput would be something inlines of reference screenshots listed below:  
+1. Select a COBOL program from the Explorer view. For example, navigate to: `MODERNIZATION-CARDDEMO` / `app` / `CBACT01C.cbl`.
 
-<img src='diagrams/genai/image5.png' width='30%'>
+    <img src='diagrams/code4z_assistant/explorer_open_cobol_program.png' style='min-width: 300pt; max-width: 600pt;'/>
 
-<img src='diagrams/genai/image6.png' width='30%'>
+2. To select all code, first focus on the editor by clicking inside it, then press `⌘`+`A` on macOS or `Ctrl`+`A` on Windows.
 
-Please share feedback notes for Scenario 1:
+    <img src='diagrams/code4z_assistant/select_all_code.png' style='min-width: 300pt; max-width: 600pt;'/>
 
-1). Validate the accuracy of explanation?
+3. The selected code will be displayed in a panel on the right side of the VS Code window. Type `Explain` and press Enter to start the explanation process.
 
-2). Value or usefulness of the explanation? 
+    <img src='diagrams/code4z_assistant/chat_explain.png' style='min-width: 200pt; max-width: 400pt;' />
 
+4. The Code4z Assistant will provide an explanation of the selected code in natural language.
 
-## Scenario 2: Test case suggestions
+    <img src='diagrams/code4z_assistant/explain_result.png' style='min-width: 200pt; max-width: 400pt;' />
 
-Pick one of the cobol program's from the Explorer tab.
+5. You can ask follow-up questions if needed. You can also select a specific part of the code and repeat the explanation process to focus on that part. The selected code can be added to the chat using  `⌘`+`L` on macOS or `Ctrl`+`L` on Windows.
 
-MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here.
+    <img src='diagrams/code4z_assistant/explain_snippet.png' style='min-width: 300pt; max-width: 600pt;'/>
 
-Reference Screenshot: 
+Please share your feedback for the Scenario 1:
 
-<img src='diagrams/genai/image1.png' width='30%'>
+- Was the information provided accurate and useful?
+- What parts of the code would you use the explanation on?
 
-Select the complete program or code snippet from the program. Select Ctrl + L if you are on windows or Cmd + L if you are on Mac - This will copy the code contents into the Generative AI extension. 
+## Troubleshooting Tips
 
-In the prompt, type "/test" and hit enter. Reference screenshot: 
+If you notice that progress has stalled in VS Code, try refreshing the window. Here’s how to do it:
 
-<img src='diagrams/genai/image7.png' width='30%'>
+1. Open the **Command Palette**:
 
-The Generative AI ouput would be something inlines of reference screenshot listed below:  
+   - Use the keyboard shortcut: `⌘`+`⇧`+`P` on macOS or`Ctrl`+`Shift`+`P` on Windows.
+   - Alternatively, click the three vertical lines (hamburger menu) in the top left corner, go to **View**, and select **Command Palette**.
 
-<img src='diagrams/genai/image8.png' width='30%'>
-
-Please share feedback notes for Scenario 2:
-
-1). Is this something useful?
-
-2). Are these something that you would look for while testing a cobol program?
-
-
-## Scenario 3: Git diff
-
-Pick one of the cobol program's from the Explorer tab.
-
-MODERNIZATION-CARDDEMO -> app -> cbl -> Pick any of the .cbl programs from here.
-
-Reference Screenshot: 
-
-<img src='diagrams/genai/image1.png' width='30%'>
-
-Select the complete program or code snippet from the program. Select Ctrl + L if you are on windows or Cmd + L if you are on Mac - This will copy the code contents into the Generative AI extension. 
-
-In the prompt, type "/Git Diff" and hit enter. This will reference the current git diff. In addition to listing if the files being changed, this command output gives the context to the changes made. Reference screenshot: 
-
-<img src='diagrams/genai/image9.png' width='30%'>
-
-Command Run:
-
-<img src='diagrams/genai/image10.png' width='30%'>
-
-The Generative AI ouput would be something inlines of reference screenshots listed below:  
-
-<img src='diagrams/genai/image11.png' width='30%'>
-
-<img src='diagrams/genai/image12.png' width='30%'>
-
-Please share feedback notes for Scenario 3.
-
-## Troubleshooting Tip: 
-
-Please refresh the VS Code window if at any point you see things are not making progress. 
-
-Listing the details on refreshing the VS Code window:
-
-1). Select the three vertical lines on the top left -> View -> Command Palette
-
-Reference Screenshot: 
-
-<img src='diagrams/genai/image13.png' width='30%'>
-
-2). Once the Command Palette is open, Type in "Reload Window" and hit enter, this will reload the VS Code window. 
-
-Reference Screenshot: 
-
-<img src='diagrams/genai/image14.png' width='30%'>
-
+2.	In the Command Palette, type `Reload Window` and press Enter. This will reload the VS Code window.
 
 
