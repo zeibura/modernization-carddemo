@@ -47,12 +47,8 @@ Please share your feedback for Scenario 1:
 
 If you notice that progress has stalled in VS Code, try refreshing the window:
 
-1. Open the **Command Palette**:
-
-   - Use the keyboard shortcut `⌘`+`⇧`+`P` on macOS or`Ctrl`+`Shift`+`P` on Windows.
-   - Alternatively, click the three vertical lines (hamburger menu) in the top left corner, go to **View**, and select **Command Palette**.
-
-2.	In the Command Palette, type `Reload Window` and press Enter.
-    The VS Code window reloads.
+1. Press F1 to open the **Command Palette**
+2. In the Command Palette, type `Reload Window` and press Enter.
+   The VS Code window reloads.
 
 
